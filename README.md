@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## 欢迎来到sunlizhuang的个人博客（筹）
+## 博客将于考研复试结束之后开始建设
+## よこそう！
+## Welcome to sunlizhuang's blog
 
 You can use the [editor on GitHub](https://github.com/sunlizhuang/sunlizhuang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
